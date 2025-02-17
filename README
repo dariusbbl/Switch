@@ -1,8 +1,3 @@
-1 2
-Bobelniceanu Darius-Andrei
-331CC
-Tema 1 RL
-
 1 - Pentru acest task m-am folosit de dictionarul MAC_Table, mergand pe 2 cazuri: unicast (daca adresa destinatie se afla in tabela MAC / flooding pe toate porturile, mai putin cel sursa) sau broadcast. In mare, am tradus pseudocodul din cerinta in python.
 
 2 -  Pentru al doilea task am parsat din nou fisierul sursa pentru
