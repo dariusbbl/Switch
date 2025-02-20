@@ -1,4 +1,4 @@
-1 - Pentru acest task m-am folosit de dictionarul MAC_Table, mergand pe 2 cazuri: unicast (daca adresa destinatie se afla in tabela MAC / flooding pe toate porturile, mai putin cel sursa) sau broadcast. In mare, am tradus pseudocodul din cerinta in python.
+1 - Pentru acest task m-am folosit de dictionarul MAC_Table, mergand pe 2 cazuri: unicast (daca adresa destinatie se afla in tabela MAC / flooding pe toate porturile, mai putin cel sursa) sau broadcast.
 
 2 -  Pentru al doilea task am parsat din nou fisierul sursa pentru
 a putea clasifica porturile in lista de trunk_ports si dictionarul de access_ports. Am mers pe fiecare caz (modificand codul de la task 1), am verificat mai intai natura portului de pe care facem trimiterea si cea a portului destinatie. 
